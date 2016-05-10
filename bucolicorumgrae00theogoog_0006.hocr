@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bucolicorumgrae00theogoog_0006.png"; bbox 0 0 2968 5060; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 351 1431 1014 1532">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 351 1431 1014 1532">
+     <span class='ocr_line' id='line_1_1' title="bbox 351 1431 1014 1532; baseline 0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 351 1431 685 1528; x_wconf 86' lang='lat' dir='ltr'>BUCOLICORUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 720 1433 1014 1532; x_wconf 80' lang='lat' dir='ltr'><strong>GRAECORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 104 1679 1253 1900">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 104 1679 1253 1962">
+     <span class='ocr_line' id='line_1_2' title="bbox 104 1679 1253 1900; baseline 0.003 -4"><span class='ocrx_word' id='word_1_3' title='bbox 104 1693 569 1900; x_wconf 79' lang='lat' dir='ltr'>THEOCRITI</span> <span class='ocrx_word' id='word_1_4' title='bbox 616 1679 915 1900; x_wconf 73' lang='lat' dir='ltr'>Blole¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 940 1679 1253 1899; x_wconf 79' lang='lat' dir='ltr'>Mosoffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 523 2143 883 2256">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 523 2143 883 2256">
+     <span class='ocr_line' id='line_1_3' title="bbox 523 2143 883 2256; baseline -0.003 -27"><span class='ocrx_word' id='word_1_6' title='bbox 523 2143 842 2234; x_wconf 65' lang='lat' dir='ltr'><strong>mmmm.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 879 2247 883 2256; x_wconf 23' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1488 5060">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1488 5060">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1488 5060; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1488 5060; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
